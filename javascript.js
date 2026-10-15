@@ -6,4 +6,4 @@ Features:
 - Auto structure with clauses
 - Download option
 
-Tech: Streamlit + Gemini 1.5 Flash + Google Clouds
+Tech: Streamlit + Gemini 1.5 Flash + Google Cloud
